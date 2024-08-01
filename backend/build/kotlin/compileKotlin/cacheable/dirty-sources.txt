@@ -1,0 +1,8 @@
+D:\Med-EASE\backend\src\main\java\med\med1\api\FetchRecommendationResponse.kt
+D:\Med-EASE\backend\src\main\java\med\med1\service\RecommendationService.kt
+D:\Med-EASE\backend\src\main\java\med\med1\repo\Recommendation.kt
+D:\Med-EASE\backend\src\main\java\med\med1\api\FetchRecommendationRequest.kt
+D:\Med-EASE\backend\src\main\java\med\med1\api\AudioUploadResponse.kt
+D:\Med-EASE\backend\src\main\java\med\med1\controller\RecommendationController.kt
+D:\Med-EASE\backend\src\main\java\med\med1\repo\RecommendationRepository.kt
+D:\Med-EASE\backend\src\main\java\med\med1\api\AudioUploadRequest.kt
